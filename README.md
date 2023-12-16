@@ -25,7 +25,7 @@ This project implements a course recommendation system that suggests relevant co
    Utilize `ffmpeg` or a similar tool to process the course videos and extract relevant information. This step is crucial for obtaining textual data from video content.
 ![speech2text.png](github%2Fspeech2text.png)
 3. **Structured Format:**
-   Convert the obtained data into a structured format, such as a database or a CSV file. Each course should have attributes like course name, author, description, price, requirements, etc.
+   Convert the obtained data into a structured format (CSV file).
 
 ## Data Cleaning
 
