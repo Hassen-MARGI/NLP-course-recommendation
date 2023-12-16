@@ -1,2 +1,12 @@
 streamlit
 protobuf
+numpy
+fasttext
+unidecode
+nltk
+pandas
+sklearn
+docx
+selenium
+requests
+bs4
