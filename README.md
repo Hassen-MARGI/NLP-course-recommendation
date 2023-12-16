@@ -23,8 +23,8 @@ This project implements a course recommendation system that suggests relevant co
 
 2. **Video Processing:**
    Utilize `ffmpeg` or a similar tool to process the course videos and extract relevant information. This step is crucial for obtaining textual data from video content.
-![ffmpeg.png](..%2F..%2FInternship%2Fdocs%2Fffmpeg.png)
-![speech2text.png](..%2F..%2FInternship%2Fdocs%2Fspeech2text.png)
+![ffmpeg.png](github%2Fffmpeg.png)
+![speech2text.png](github%2Fspeech2text.png)
 3. **Structured Format:**
    Convert the obtained data into a structured format, such as a database or a CSV file. Each course should have attributes like course name, author, description, price, requirements, etc.
 
